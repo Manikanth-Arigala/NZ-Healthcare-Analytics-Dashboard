@@ -50,6 +50,5 @@ This project uses a synthetic dataset created for learning purposes.
 ## 👤 Author
 
 Manikanth Arigala  
-Aspiring Data Analyst  
 Aspiring Data Analyst
 
